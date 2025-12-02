@@ -1,5 +1,7 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom"
 import { HomePage } from "./MainComponents/HomePage/HomePage";
+import { PrivacyPolicy } from "./MainComponents/HomePage/PrivacyPolicy";
+
 import { Services } from "./MainComponents/Services/Services";
 import { AboutUs } from "./MainComponents/AboutUs/AboutUs";
 import { Login } from "./MainComponents/LoginPage/Login";
@@ -44,6 +46,10 @@ export const AllRouter = () => {
                 <Route path="Login" element={<Login />} />
                 <Route path="ConnectWorld" element={<ConnectWorld />} />
                 <Route path="ContactUs" element={<ContactUs />} />
+                <Route path="/PrivacyPolicy" element={<PrivacyPolicy />} />
+
+
+
                 <Route path="CastingAndModelling" element={<CastingAndModelling />} />
                 <Route path="OpenPhotosPage" element={<OpenPhotosPage />} />
                 <Route path="CastingAgencyForm" element={<CastingAgencyForm />} />
