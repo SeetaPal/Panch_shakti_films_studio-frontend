@@ -42,7 +42,7 @@ export const Services = () => {
                                 <div className="work-item-inner">
                                     <div className="work-title-box"><h4>Casting & Modelling<br />Platform</h4></div>
                                     <div className="work-image-wrapper">
-                                        <img src="Assets/Images/castingModelling.jpg" alt="Casting & Modelling Platform" />
+                                        <img src="Assets/Images/castingModelling.webp" alt="Casting & Modelling Platform" />
                                     </div>
                                 </div>
                             </div>

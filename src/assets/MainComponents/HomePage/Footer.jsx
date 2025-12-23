@@ -32,7 +32,7 @@
 
 //                     <div className="row pt-4 hover_img_icon">
 //                         <div className="col-2">
-//                             <img src="Assets/Images/linkedins.png" width={30} alt="" />
+//                             <img src="Assets/Images/linkedins.webp" width={30} alt="" />
 //                         </div>
 //                         <div className="col-2">
 //                             <img src="Assets/Images/facebooks.webp" width={30} alt="" />
@@ -111,7 +111,7 @@ export const Footer = () => {
                     <h6>Follow Us On Social Media:</h6>
                     <div className="row pt-4 hover_img_icon">
                         <div className="col-2">
-                            <img src="Assets/Images/linkedins.png" width={30} alt="" />
+                            <img src="Assets/Images/linkedins.webp" width={30} alt="" />
                         </div>
                         <div className="col-2">
                             <img src="Assets/Images/facebooks.webp" width={30} alt="" />

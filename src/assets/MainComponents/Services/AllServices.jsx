@@ -5,7 +5,7 @@ export const AllServices = () => {
     const cardData = [
         {
             id: 1,
-            image: "Assets/Images/castingAgency.png",
+            image: "Assets/Images/castingAgency.webp",
             title: "Casting Agency / Director  Producer ",
             description:
                 "A high-quality, vibrant image of the product showcasing its key features. A high-quality, vibrant image of the product showcasing its key features.",
@@ -58,7 +58,7 @@ export const AllServices = () => {
 
         {
             id: 7,
-            image: "Assets/Images/ai-marketing.png",
+            image: "Assets/Images/aiMarketing.webp",
             title: "AI Based Digital Marketing",
             description:
                 "A high-quality, vibrant image of the product showcasing its key features. A high-quality, vibrant image of the product showcasing its key features.",
@@ -98,7 +98,7 @@ export const AllServices = () => {
         },
         {
             id: 11,
-            image: "Assets/Images/corporateBranding.png",
+            image: "Assets/Images/corporateBranding.webp",
             title: "Corporate Branding",
             description:
                 "A high-quality, vibrant image of the product showcasing its key features. A high-quality, vibrant image of the product showcasing its key features.",

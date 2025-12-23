@@ -10,7 +10,7 @@ export const SoftwareDeveloper = () => {
 
                         <div className="col-12 col-md-5 col-lg-4 px-4">
                             <div className="founder-card">
-                                <img src="Assets/Images/dipeeka.png" alt="Dipika" />
+                                <img src="Assets/Images/dipeeka.webp" alt="Dipika" />
                                 <div className="founder-info">
                                     <h5 className="mb-1 fw-bold text-dark">Dipika</h5>
                                     <h6 className="text-dark">Data Scientist</h6>

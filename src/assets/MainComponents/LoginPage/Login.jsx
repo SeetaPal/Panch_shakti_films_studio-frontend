@@ -144,7 +144,7 @@
 //           </div>
 
 //           <div className="d-flex justify-content-center gap-3">
-//             <img src="Assets/Images/linkedin.png" width={25} alt="LinkedIn" />
+//             <img src="Assets/Images/linkedin.webp" width={25} alt="LinkedIn" />
 //             <img src="Assets/Images/instagram.webp" width={25} alt="Instagram" />
 //             <img src="Assets/Images/search.webp" width={25} alt="Google" />
 //           </div>
@@ -284,7 +284,7 @@ export const Login = () => {
           </div>
 
           <div className="d-flex justify-content-center gap-3">
-            <img src="Assets/Images/linkedin.png" width={25} alt="LinkedIn" />
+            <img src="Assets/Images/linkedin.webp" width={25} alt="LinkedIn" />
             <img src="Assets/Images/instagram.webp" width={25} alt="Instagram" />
             <img src="Assets/Images/search.webp" width={25} alt="Google" />
           </div>
