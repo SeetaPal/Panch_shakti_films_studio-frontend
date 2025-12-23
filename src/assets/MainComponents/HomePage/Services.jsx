@@ -34,7 +34,7 @@ export const Services = () => {
                                 <div className="work-item-inner ">
                                     <div className="work-title-box"><h4>Product Ad<br />Shoot</h4></div>
                                     <div className="work-image-wrapper">
-                                        <img src="Assets/Images/Product.jpg" alt="Product Ad Shoot" />
+                                        <img src="Assets/Images/product.webp" alt="Product Ad Shoot" />
                                     </div>
                                 </div>
                             </div>
@@ -42,7 +42,7 @@ export const Services = () => {
                                 <div className="work-item-inner">
                                     <div className="work-title-box"><h4>Casting & Modelling<br />Platform</h4></div>
                                     <div className="work-image-wrapper">
-                                        <img src="Assets/Images/Casting & Modelling.jpg" alt="Casting & Modelling Platform" />
+                                        <img src="Assets/Images/castingModelling.jpg" alt="Casting & Modelling Platform" />
                                     </div>
                                 </div>
                             </div>
@@ -51,7 +51,7 @@ export const Services = () => {
                                 <div className="work-item-inner">
                                     <div className="work-title-box"><h4>Website Development</h4></div>
                                     <div className="work-image-wrapper">
-                                        <img src="Assets/Images/web_dev.jpg" alt="Voice Over" />
+                                        <img src="Assets/Images/webDev.webp" alt="Voice Over" />
                                     </div>
                                 </div>
                             </div>
@@ -60,7 +60,7 @@ export const Services = () => {
                                 <div className="work-item-inner">
                                     <div className="work-title-box"><h4>Model<br />Photoshoot</h4></div>
                                     <div className="work-image-wrapper">
-                                        <img src="Assets/Images/Model Portfolio Shoot.jpg" alt="Model Photoshoot" />
+                                        <img src="Assets/Images/mps.webp" alt="Model Photoshoot" />
                                     </div>
                                 </div>
                             </div>
@@ -69,7 +69,7 @@ export const Services = () => {
                                 <div className="work-item-inner">
                                     <div className="work-title-box"><h4>Voice Over</h4></div>
                                     <div className="work-image-wrapper">
-                                        <img src="Assets/Images/Voice.jpg" alt="Voice Over" />
+                                        <img src="Assets/Images/voice.webp" alt="Voice Over" />
                                     </div>
                                 </div>
                             </div>
@@ -78,7 +78,7 @@ export const Services = () => {
                                 <div className="work-item-inner">
                                     <div className="work-title-box"><h4>Music<br />Albums Shoot</h4></div>
                                     <div className="work-image-wrapper">
-                                        <img src="Assets/Images/MusicAlbums.jpg" alt="Music Albums Shoot" />
+                                        <img src="Assets/Images/MusicAlbums.webp" alt="Music Albums Shoot" />
                                     </div>
                                 </div>
                             </div>
@@ -87,7 +87,7 @@ export const Services = () => {
                                 <div className="work-item-inner">
                                     <div className="work-title-box"><h4>Social Media &<br />Digital Marketing</h4></div>
                                     <div className="work-image-wrapper">
-                                        <img src="Assets/Images/SocialMedia.jpg" alt="Social Media & Digital Marketing" />
+                                        <img src="Assets/Images/socialMedia.webp" alt="Social Media & Digital Marketing" />
                                     </div>
                                 </div>
                             </div>

@@ -24,12 +24,12 @@ export const ImagesVideos = () => {
             </div>
 
             <div className="col-12 col-md-4 col-lg-2 ps-lg-5 pt-5 pt-lg-0 cursor-pointer " onClick={() => Navigate('/OpenPhotosPage')}>
-                <img src="Assets/Images/image 1852.png" className="rounded w-100 box_shadow" style={{ height: "150px" }} alt="" />
+                <img src="Assets/Images/image 185logo.webp" className="rounded w-100 box_shadow" style={{ height: "150px" }} alt="" />
                 <h6 className="pt-4 text-center">Photo's</h6>
             </div>
 
             <div className="col-12 col-md-4 col-lg-2 ps-lg-5 pt-5 pt-lg-0 cursor-pointer">
-                <img src="Assets/Images/PSFS1234.png" className="rounded w-100 box_shadow" style={{ height: "150px" }} alt="" />
+                <img src="Assets/Images/psfsSide.webp" className="rounded w-100 box_shadow" style={{ height: "150px" }} alt="" />
                 <h6 className="pt-4 text-center">Video's</h6>
             </div>
 

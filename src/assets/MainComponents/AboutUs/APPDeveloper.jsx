@@ -10,7 +10,7 @@ export const APPDeveloper = () => {
 
                     <div className="col-12 col-md-5 col-lg-4 px-4">
                         <div className="founder-card">
-                            <img src="Assets/Images/savita-01.png" alt="Savita" />
+                            <img src="Assets/Images/savita.webp" alt="Savita" />
                             <div className="founder-info">
                                 <h5 className="mb-1 fw-bold text-dark">Savita</h5>
                                 <h6 className="text-dark">  App Developer</h6>

@@ -1,0 +1,18 @@
+.policy-container {
+  max-width: 900px;
+  /* margin: 0 auto; */
+  margin:152px auto;
+  padding: 150px 20px 40px 20px; /* 150px added to fix header overlap */
+  color: #fff;
+}
+
+h2.policy-title {
+    text-align: center;
+    font-size: 53px;
+    color: gold;
+}
+
+p.policy-updated{
+      text-align: center;
+
+}

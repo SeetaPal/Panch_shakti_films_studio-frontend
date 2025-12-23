@@ -13,7 +13,7 @@ export const CurrentAllPost = () => {
             category: "Actor",
             title: "Looking For Lead Female Actors For A New Series Shoot",
             ProductionCompany: "Ag Production Unit",
-            CompanyLogo: "Assets/Images/dharma_products.jpg",
+            CompanyLogo: "Assets/Images/dharmaProducts.jpg",
             AgencyName: 'Production house',
             CharacterDescription: 'Required lead female actors for a new series.',
             RoleName: "...",

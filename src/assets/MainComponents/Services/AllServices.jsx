@@ -5,7 +5,7 @@ export const AllServices = () => {
     const cardData = [
         {
             id: 1,
-            image: "Assets/Images/Casting _Agency-01.png",
+            image: "Assets/Images/castingAgency.png",
             title: "Casting Agency / Director  Producer ",
             description:
                 "A high-quality, vibrant image of the product showcasing its key features. A high-quality, vibrant image of the product showcasing its key features.",
@@ -16,7 +16,7 @@ export const AllServices = () => {
         },
         {
             id: 5,
-            image: "Assets/Images/Celebrity_Management-01.png",
+            image: "Assets/Images/celebMgmt.webp",
             title: "Model & Actor",
             description:
                 "A high-quality, vibrant image of the product showcasing its key features. A high-quality, vibrant image of the product showcasing its key features.",
@@ -24,7 +24,7 @@ export const AllServices = () => {
         },
         {
             id: 2,
-            image: "Assets/Images/Product Ad Shoot1-01.png",
+            image: "Assets/Images/productAdShoots.webp",
             title: "Product Ad Shoot",
             description:
                 "A high-quality, vibrant image of the product showcasing its key features. A high-quality, vibrant image of the product showcasing its key features.",
@@ -32,7 +32,7 @@ export const AllServices = () => {
         },
         {
             id: 3,
-            image: "Assets/Images/Website Development-01.png",
+            image: "Assets/Images/websiteDevelopment.webp",
             title: "Website Development",
             description:
                 "A high-quality, vibrant image of the product showcasing its key features. A high-quality, vibrant image of the product showcasing its key features.",
@@ -40,7 +40,7 @@ export const AllServices = () => {
         },
         {
             id: 4,
-            image: "Assets/Images/Model Photoshoot-01.png",
+            image: "Assets/Images/modelPhotoshoot.webp",
             title: "Model Photoshoot",
             description:
                 "A high-quality, vibrant image of the product showcasing its key features. A high-quality, vibrant image of the product showcasing its key features.",
@@ -49,7 +49,7 @@ export const AllServices = () => {
 
         {
             id: 6,
-            image: "Assets/Images/Music Video Albums-01.png",
+            image: "Assets/Images/musicVideoAlbums.webp",
             title: "Music Video Albums",
             description:
                 "A high-quality, vibrant image of the product showcasing its key features. A high-quality, vibrant image of the product showcasing its key features.",
@@ -58,7 +58,7 @@ export const AllServices = () => {
 
         {
             id: 7,
-            image: "Assets/Images/AI Based Digital Marketing-01.png",
+            image: "Assets/Images/ai-marketing.png",
             title: "AI Based Digital Marketing",
             description:
                 "A high-quality, vibrant image of the product showcasing its key features. A high-quality, vibrant image of the product showcasing its key features.",
@@ -66,7 +66,7 @@ export const AllServices = () => {
         },
         {
             id: 8,
-            image: "Assets/Images/Celebrity_Management-01.png",
+            image: "Assets/Images/celebMgmt.webp",
             title: "Celebrity Management",
             description:
                 "A high-quality, vibrant image of the product showcasing its key features. A high-quality, vibrant image of the product showcasing its key features.",
@@ -74,7 +74,7 @@ export const AllServices = () => {
         },
         // {
         //     id: 9,
-        //     image: "Assets/Images/Celebrity_Management-01.png",
+        //     image: "Assets/Images/celebMgmt.webp",
         //     title: "Product Ad Shoot",
         //     description:
         //         "A high-quality, vibrant image of the product showcasing its key features. A high-quality, vibrant image of the product showcasing its key features.",
@@ -82,7 +82,7 @@ export const AllServices = () => {
         // },
         {
             id: 9,
-            image: "Assets/Images/3D Graphics Designing-01.png",
+            image: "Assets/Images/graphicsDesigning.webp",
             title: "3D Graphics Designing",
             description:
                 "A high-quality, vibrant image of the product showcasing its key features. A high-quality, vibrant image of the product showcasing its key features.",
@@ -90,7 +90,7 @@ export const AllServices = () => {
         },
         {
             id: 10,
-            image: "Assets/Images/Model Portfolio Shoot-01.png",
+            image: "Assets/Images/portfolio.webp",
             title: "Model Portfolio Shoot",
             description:
                 "A high-quality, vibrant image of the product showcasing its key features. A high-quality, vibrant image of the product showcasing its key features.",
@@ -98,7 +98,7 @@ export const AllServices = () => {
         },
         {
             id: 11,
-            image: "Assets/Images/Corporate Branding-01.png",
+            image: "Assets/Images/corporateBranding.png",
             title: "Corporate Branding",
             description:
                 "A high-quality, vibrant image of the product showcasing its key features. A high-quality, vibrant image of the product showcasing its key features.",
@@ -106,7 +106,7 @@ export const AllServices = () => {
         },
         {
             id: 12,
-            image: "Assets/Images/Video Ad Shoot-01.png",
+            image: "Assets/Images/videoAdShoot.webp",
             title: "Video Ad Shoot",
             description:
                 "A high-quality, vibrant image of the product showcasing its key features. A high-quality, vibrant image of the product showcasing its key features.",

@@ -11,7 +11,7 @@ export const Founder = () => {
 
                     <div className="col-12 col-md-5 col-lg-4 px-4">
                         <div className="founder-card">
-                            <img src="Assets/Images/vaibhav_jain-01.png" alt="Vaibhav Jain" />
+                            <img src="Assets/Images/vaibhavJain.webp" alt="Vaibhav Jain" />
                             <div className="founder-info">
                                 <h5 className="mb-1 fw-bold text-dark">Vaibhav Jain</h5>
                                 <h6 className="text-dark">Founder & CEO</h6>
@@ -21,7 +21,7 @@ export const Founder = () => {
 
                     <div className="col-12 col-md-5 col-lg-4 px-4">
                         <div className="founder-card">
-                            <img src="Assets/Images/Namrata-01.png" alt="Namarata Sancheti" />
+                            <img src="Assets/Images/namrata.webp" alt="Namarata Sancheti" />
                             <div className="founder-info">
                                 <h5 className="mb-1 fw-bold text-dark">Namarata Sancheti</h5>
                                 <h6 className="text-dark">Co-Founder (JSPM Narhe)</h6>

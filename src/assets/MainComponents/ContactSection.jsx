@@ -15,7 +15,7 @@ const ContactSection = () => {
                 {/* Right Image */}
                 <div className="flex-fill d-flex justify-content-center mt-4 mt-lg-0">
                     <img
-                        src="Assets/Images/girl.png" 
+                        src="Assets/Images/girl.webp" 
                         alt="Contact"
                         className="img-fluid contact-img"
                     />

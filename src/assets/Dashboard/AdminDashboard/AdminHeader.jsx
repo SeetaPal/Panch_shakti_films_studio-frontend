@@ -15,7 +15,7 @@ export const AdminHeader = () => {
                 </div>
                 <div className="col-1 d-flex justify-content-end">
                     <img
-                        src="Assets/Images/profiles.png"
+                        src="Assets/Images/profiles.webp"
                         onClick={() => Navigate("/")}
                         alt="profile"
                         style={{ height: "35px", width: "35px" }}

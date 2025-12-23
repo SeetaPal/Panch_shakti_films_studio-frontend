@@ -53,7 +53,7 @@
 //         <div className="">
 //           <img
 //             onClick={() => Navigate("/")}
-//             src="Assets/Images/2.png"
+//             src="Assets/Images/logo.webp"
 //             alt="PSFS Logo"
 //             className="login-logo cursor-pointer"
 //             style={{ flexDirection: "row", zIndex: "999" }}
@@ -144,9 +144,9 @@
 //           </div>
 
 //           <div className="d-flex justify-content-center gap-3">
-//             <img src="Assets/Images/linkedin1.png" width={25} alt="LinkedIn" />
-//             <img src="Assets/Images/instagram (1).png" width={25} alt="Instagram" />
-//             <img src="Assets/Images/search.png" width={25} alt="Google" />
+//             <img src="Assets/Images/linkedin.png" width={25} alt="LinkedIn" />
+//             <img src="Assets/Images/instagram.webp" width={25} alt="Instagram" />
+//             <img src="Assets/Images/search.webp" width={25} alt="Google" />
 //           </div>
 //         </div>
 //       </div>
@@ -210,7 +210,7 @@ export const Login = () => {
         <div>
           <img
             onClick={() => Navigate("/")}
-            src="Assets/Images/2.png"
+            src="Assets/Images/logo.webp"
             alt="PSFS Logo"
             className="login-logo cursor-pointer"
             style={{ zIndex: "999" }}
@@ -284,9 +284,9 @@ export const Login = () => {
           </div>
 
           <div className="d-flex justify-content-center gap-3">
-            <img src="Assets/Images/linkedin1.png" width={25} alt="LinkedIn" />
-            <img src="Assets/Images/instagram (1).png" width={25} alt="Instagram" />
-            <img src="Assets/Images/search.png" width={25} alt="Google" />
+            <img src="Assets/Images/linkedin.png" width={25} alt="LinkedIn" />
+            <img src="Assets/Images/instagram.webp" width={25} alt="Instagram" />
+            <img src="Assets/Images/search.webp" width={25} alt="Google" />
           </div>
         </div>
       </div>

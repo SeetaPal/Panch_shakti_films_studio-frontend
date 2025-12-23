@@ -10,7 +10,7 @@ export const TypesOfShoots = () => {
 
 
                 <div className="rounded position-relative overflow-hidden ">
-                    <img src="Assets/Images/image 185.jpg" className="rounded box_shadow model_pic_height" alt="" />
+                    <img src="Assets/Images/modelA.jpg" className="rounded box_shadow model_pic_height" alt="" />
 
                     <div className="gradient-overlay"></div>
 

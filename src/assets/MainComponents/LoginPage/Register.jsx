@@ -10,7 +10,7 @@
 //                     {/* Logo */}
 //                     <div className="text-center">
 //                         <img
-//                             src="Assets/Images/2.png"
+//                             src="Assets/Images/logo.webp"
 //                             alt="PSFS Logo"
 //                             className="login-logo cursor-pointer"
 //                             onClick={() => Navigate('/')}
@@ -206,7 +206,7 @@ export const Register = () => {
           {/* Logo */}
           <div className="text-center">
             <img
-              src="Assets/Images/2.png"
+              src="Assets/Images/logo.webp"
               alt="PSFS Logo"
               className="login-logo cursor-pointer"
               onClick={() => navigate("/")}

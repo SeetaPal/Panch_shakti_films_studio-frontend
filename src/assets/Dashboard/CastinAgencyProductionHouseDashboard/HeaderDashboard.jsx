@@ -31,7 +31,7 @@ export const HeaderDashboard = () => {
                     <i className="fa-solid fa-gear px-4 cursor-pointer"></i>
                 </div>
                 <div className="col-1  d-flex justify-content-end">
-                    <img src="Assets/Images/profiles.png"
+                    <img src="Assets/Images/profiles.webp"
                         onClick={() => Navigate('/')} alt="" style={{ height: "35px", width: "35px" }} />
                 </div>
 

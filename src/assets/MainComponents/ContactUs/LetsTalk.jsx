@@ -6,7 +6,7 @@ export const LetsTalk = () => {
 
                 <div className="row">
                     <div className="col-1  px-0">
-                        <img src="Assets/Images/location.png" width={250} alt="" srcset="" /> </div>
+                        <img src="Assets/Images/location.webp" width={250} alt="" srcset="" /> </div>
                     <div className="col-9 ">
                         <h2 className=""> Address</h2>
                         <p className=" pt-3 gray_color ">
@@ -17,7 +17,7 @@ export const LetsTalk = () => {
 
                 <div className="row pt-5">
                     <div className="col-1  px-0">
-                        <img src="Assets/Images/call.png" width={250} alt="" srcset="" /> </div>
+                        <img src="Assets/Images/call.webp" width={250} alt="" srcset="" /> </div>
                     <div className="col-9 ">
                         <h2 className=""> Contact</h2>
                         <p className="pe-lg-5 pt-3">
