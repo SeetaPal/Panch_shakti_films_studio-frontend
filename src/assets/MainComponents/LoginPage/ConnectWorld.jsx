@@ -14,7 +14,7 @@ export const ConnectWorld = () => {
 
                 <div className="">
                     <img onClick={() => Navigate('/')}
-                        src="Assets/Images/logo.webp"
+                        src="Assets/images/logo.webp"
                         alt="PSFS Logo"
                         className="login-logo cursor-pointer"
                         style={{ flexDirection: "row", zIndex: "999" }}

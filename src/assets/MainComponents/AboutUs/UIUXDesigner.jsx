@@ -10,7 +10,7 @@ export const UIUXDesigner = () => {
 
                         <div className="col-12 col-md-5 col-lg-4 px-4">
                             <div className="founder-card">
-                                <img src="Assets/Images/shrushti.webp" alt="Srushti" />
+                                <img src="Assets/images/shrushti.webp" alt="Srushti" />
                                 <div className="founder-info">
                                     <h5 className="mb-1 fw-bold text-dark">Srushti</h5>
                                     <h6 className="text-dark">UI UX Designer</h6>
@@ -20,7 +20,7 @@ export const UIUXDesigner = () => {
 
                         <div className="col-12 col-md-5 col-lg-4 px-4">
                             <div className="founder-card">
-                                <img src="Assets/Images/namita.png" alt="Namarata Sancheti" />
+                                <img src="Assets/images/namita.png" alt="Namarata Sancheti" />
                                 <div className="founder-info">
                                     <h5 className="mb-1 fw-bold text-dark">Namita</h5>
                                     <h6 className="text-dark">UI UX Designer</h6>

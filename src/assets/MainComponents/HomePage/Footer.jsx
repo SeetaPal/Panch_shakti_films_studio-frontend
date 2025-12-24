@@ -5,7 +5,7 @@
 
 //             <div className="row container  p-5 mb-5 Footer-bg " id="">
 //                 <div className="col-12 col-lg-5">
-//                     <img src="Assets/Images/footer.webp" width={280} alt="" />
+//                     <img src="Assets/images/footer.webp" width={280} alt="" />
 //                     <ul className="mx-0 px-3 gray_color pt-5 mt-3">
 //                         <li className="cursor-pointer">Privacy Police</li>
 //                         <li className="cursor-pointer">Terms & Condition</li>
@@ -32,19 +32,19 @@
 
 //                     <div className="row pt-4 hover_img_icon">
 //                         <div className="col-2">
-//                             <img src="Assets/Images/linkedins.webp" width={30} alt="" />
+//                             <img src="Assets/images/linkedins.webp" width={30} alt="" />
 //                         </div>
 //                         <div className="col-2">
-//                             <img src="Assets/Images/facebooks.webp" width={30} alt="" />
+//                             <img src="Assets/images/facebooks.webp" width={30} alt="" />
 //                         </div>
 //                         <div className="col-2">
-//                             <img src="Assets/Images/youTube.webp" width={30} alt="" />
+//                             <img src="Assets/images/youTube.webp" width={30} alt="" />
 //                         </div>
 //                         <div className="col-2">
-//                             <img src="Assets/Images/instagrams.webp" width={30} alt="" />
+//                             <img src="Assets/images/instagrams.webp" width={30} alt="" />
 //                         </div>
 //                         <div className="col-2">
-//                             <img src="Assets/Images/twitter.webp" width={30} alt="" />
+//                             <img src="Assets/images/twitter.webp" width={30} alt="" />
 //                         </div>
 
 //                     </div>
@@ -73,7 +73,7 @@ export const Footer = () => {
         <div>
             <div className="row container p-5 mb-5 Footer-bg">
                 <div className="col-12 col-lg-5">
-                    <img src="Assets/Images/footer.webp" width={280} alt="" />
+                    <img src="Assets/images/footer.webp" width={280} alt="" />
                     <ul className="mx-0 px-3 gray_color pt-5 mt-3">
                         <li className="cursor-pointer">
                             <Link to="/PrivacyPolicy">Privacy Policy</Link>
@@ -111,19 +111,19 @@ export const Footer = () => {
                     <h6>Follow Us On Social Media:</h6>
                     <div className="row pt-4 hover_img_icon">
                         <div className="col-2">
-                            <img src="Assets/Images/linkedins.webp" width={30} alt="" />
+                            <img src="Assets/images/linkedins.webp" width={30} alt="" />
                         </div>
                         <div className="col-2">
-                            <img src="Assets/Images/facebooks.webp" width={30} alt="" />
+                            <img src="Assets/images/facebooks.webp" width={30} alt="" />
                         </div>
                         <div className="col-2">
-                            <img src="Assets/Images/youTube.webp" width={30} alt="" />
+                            <img src="Assets/images/youTube.webp" width={30} alt="" />
                         </div>
                         <div className="col-2">
-                            <img src="Assets/Images/instagrams.webp" width={30} alt="" />
+                            <img src="Assets/images/instagrams.webp" width={30} alt="" />
                         </div>
                         <div className="col-2">
-                            <img src="Assets/Images/twitter.webp" width={30} alt="" />
+                            <img src="Assets/images/twitter.webp" width={30} alt="" />
                         </div>
                     </div>
                 </div>

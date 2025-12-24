@@ -10,7 +10,7 @@ export const PersonalAccount = () => {
 
                     <div className="col-12 col-md-5 col-lg-4 px-4">
                         <div className="founder-card">
-                            <img src="Assets/Images/rutuja.webp" alt="Rutuja" />
+                            <img src="Assets/images/rutuja.webp" alt="Rutuja" />
                             <div className="founder-info">
                                 <h5 className="mb-1 fw-bold text-dark">Rutuja </h5>
                                 <h6 className="text-dark"> Personal Assistance </h6>

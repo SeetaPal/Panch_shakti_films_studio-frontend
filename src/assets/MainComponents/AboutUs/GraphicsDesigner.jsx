@@ -10,7 +10,7 @@ export const GraphicsDesigner = () => {
 
                         <div className="col-12 col-md-5 col-lg-4 px-4">
                             <div className="founder-card">
-                                <img src="Assets/Images/saniya.webp" alt="Saniya" />
+                                <img src="Assets/images/saniya.webp" alt="Saniya" />
                                 <div className="founder-info">
                                     <h5 className="mb-1 fw-bold text-dark">Saniya</h5>
                                     <h6 className="text-dark">3D Designer</h6>
@@ -20,7 +20,7 @@ export const GraphicsDesigner = () => {
 
                         <div className="col-12 col-md-5 col-lg-4 px-4">
                             <div className="founder-card">
-                                <img src="Assets/Images/kanchan.webp" alt="kanchan" />
+                                <img src="Assets/images/kanchan.webp" alt="kanchan" />
                                 <div className="founder-info">
                                     <h5 className="mb-1 fw-bold text-dark">Kanchan</h5>
                                     <h6 className="text-dark">Jr. Graphics Designer</h6>
@@ -30,7 +30,7 @@ export const GraphicsDesigner = () => {
 
                          <div className="col-12 col-md-5 col-lg-4 px-4">
                             <div className="founder-card">
-                                <img src="Assets/Images/kaveri.webp" alt="Kaveri" />
+                                <img src="Assets/images/kaveri.webp" alt="Kaveri" />
                                 <div className="founder-info">
                                     <h5 className="mb-1 fw-bold text-dark">Kaveri</h5>
                                     <h6 className="text-dark"> Graphics Designer</h6>

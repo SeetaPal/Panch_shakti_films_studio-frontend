@@ -1,7 +1,7 @@
 import { Footer } from "../../HomePage/Footer"
 import { Header } from "../../HomePage/Header"
 import { DiscriptionInfoReview } from "./DiscriptionInfoReview"
-import { ImagesVideos } from "./ImagesVideos"
+import { imagesVideos } from "./imagesVideos"
 import { ModellingHerosection } from "./ModellingHerosection"
 import { ModellingPersonalInfo } from "./ModellingPersonalInfo"
 import { ModellingSecondPara } from "./ModellingSecondPara"
@@ -15,7 +15,7 @@ export const CastingAndModelling = () => {
             <Header active="Services" />
             <ModellingHerosection />
             <ModellingSecondPara />
-            <ImagesVideos />
+            <imagesVideos />
             {/*<ModellingPersonalInfo />*/}
             <DiscriptionInfoReview />
             <SimilarModels />

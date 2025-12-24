@@ -7,7 +7,7 @@ export const RequirementForm = () => {
             <div className="d-flex align-items-center mb-3 p-3 borders rounded shadow-sm">
                 <div className="me-3">
                     <div className=" rounded" >
-                        <img src="Assets/Images/logo.webp" alt="Panch Shakti Logo" width={150} />
+                        <img src="Assets/images/logo.webp" alt="Panch Shakti Logo" width={150} />
                     </div>
 
                 </div>

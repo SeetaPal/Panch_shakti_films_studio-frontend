@@ -13,7 +13,7 @@ export const Quality = () => {
                 <div className="col-12 col-md-6 col-lg-3  p-4 d-flex justify-content-center align-items-center" style={{ flexDirection: 'column' }}>
                     <div className="bg_img_quality2 mx-auto">
                         <div className="bg_img_quality d-flex justify-content-center align-items-center pb-4">
-                            <img src="Assets/Images/value.webp" className="" width={50} alt="" />
+                            <img src="Assets/images/value.webp" className="" width={50} alt="" />
                         </div>
 
                     </div>
@@ -24,7 +24,7 @@ export const Quality = () => {
                  <div className="col-12 col-md-6 col-lg-3  p-4 d-flex justify-content-center align-items-center" style={{ flexDirection: 'column' }}>
                     <div className="bg_img_quality2 mx-auto">
                         <div className="bg_img_quality d-flex justify-content-center align-items-center pb-4">
-                            <img src="Assets/Images/quality.webp" className="" width={50} alt="" />
+                            <img src="Assets/images/quality.webp" className="" width={50} alt="" />
                         </div>
 
                     </div>
@@ -35,7 +35,7 @@ export const Quality = () => {
                 <div className="col-12 col-md-6 col-lg-3  p-4 d-flex justify-content-center align-items-center" style={{ flexDirection: 'column' }}>
                     <div className="bg_img_quality2 mx-auto">
                         <div className="bg_img_quality d-flex justify-content-center align-items-center pb-4">
-                            <img src="Assets/Images/support.webp" className="" width={50} alt="" />
+                            <img src="Assets/images/support.webp" className="" width={50} alt="" />
                         </div>
 
                     </div>
@@ -46,7 +46,7 @@ export const Quality = () => {
                <div className="col-12 col-md-6 col-lg-3  p-4 d-flex justify-content-center align-items-center" style={{ flexDirection: 'column' }}>
                     <div className="bg_img_quality2 mx-auto">
                         <div className="bg_img_quality d-flex justify-content-center align-items-center pb-4">
-                            <img src="Assets/Images/value.webp" className="" width={50} alt="" />
+                            <img src="Assets/images/value.webp" className="" width={50} alt="" />
                         </div>
 
                     </div>

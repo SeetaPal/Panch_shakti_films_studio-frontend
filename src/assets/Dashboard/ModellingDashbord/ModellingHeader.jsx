@@ -16,7 +16,7 @@ export const ModellingHeader = () => {
                     <i className="fa-solid fa-gear px-4 cursor-pointer"></i>
                 </div>
                 <div className="col-1  d-flex justify-content-end">
-                    <img src="Assets/Images/profiles.webp"
+                    <img src="Assets/images/profiles.webp"
                         onClick={() => Navigate('/')} alt="" style={{ height: "35px", width: "35px" }} />
                 </div>
 

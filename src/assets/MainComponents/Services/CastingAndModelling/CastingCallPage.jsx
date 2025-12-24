@@ -64,7 +64,7 @@ export default function CastingCallPage() {
                         </p>
                         <div className="row pt-2">
                             <div className="col-1  ">
-                                 <img src="Assets/Images/dharmaProducts.webp" alt="Panch Shakti Logo"  width={50}/>
+                                 <img src="Assets/images/dharmaProducts.webp" alt="Panch Shakti Logo"  width={50}/>
                             </div>
                             <div className="col-6">
                                 <p className="fw-bold mb-0"> Ag Production Unit</p>
