@@ -10,7 +10,7 @@ export const ModellingSecondPara = () => {
 
 
                 <div className="rounded position-relative overflow-hidden ">
-                    <img src="Assets/images/PSFS Chocolate in Vanilla four.webp" className="rounded box_shadow model_pic_height" alt=""  />
+                    <img src="publicAssets/images/PSFS Chocolate in Vanilla four.webp" className="rounded box_shadow model_pic_height" alt=""  />
 
                     <div className="gradient-overlay"></div>
 

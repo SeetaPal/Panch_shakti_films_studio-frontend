@@ -7,7 +7,7 @@ export const SidebarCastingAgency = () => {
       <div className=" d-flex align-items-center justify-content-center" style={{ flexDirection: "column" }}>
         <div className="text-center profile-border shadow">
           <img
-            src="Assets/images/videoEditingPostProduction.webp"
+            src="publicAssets/images/videoEditingPostProduction.webp"
             alt="Logo"
             style={{ width: "130px", height: "130px", borderRadius: "100px" }}
             className="text-center"

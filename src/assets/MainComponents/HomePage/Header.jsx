@@ -6,7 +6,7 @@ export const Header = ({ active }) => {
         <header>
             <div className="nav-wrapper">
                 <a href="javascript:void(0)" onClick={() => Navigate('/')} className="logo pt-3">
-                    <img src="Assets/images/logo.webp" alt="Panch Shakti Logo" />
+                    <img src="publicAssets/images/logo.webp" alt="Panch Shakti Logo" />
                 </a>
 
                 <button className="menu-toggle" id="menu-toggle" aria-label="Open Menu">

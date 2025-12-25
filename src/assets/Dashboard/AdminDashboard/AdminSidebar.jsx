@@ -9,7 +9,7 @@ export const AdminSidebar = () => {
             <ul className="nav flex-column">
 
                 <a href="javascript:void(0)" onClick={() => Navigate('/')} className=" text-center pt-1 d-flex justify-content-center">
-                    <img src="Assets/images/logo.webp" alt="Panch Shakti Logo" className="text-center " style={{ width: '100px' }} />
+                    <img src="publicAssets/images/logo.webp" alt="Panch Shakti Logo" className="text-center " style={{ width: '100px' }} />
                 </a>
 
                 <hr />

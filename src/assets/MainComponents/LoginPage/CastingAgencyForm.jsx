@@ -10,7 +10,7 @@ export const CastingAgencyForm = () => {
                     {/* Logo */}
                     <div className="text-center">
                         <img
-                            src="Assets/images/logo.webp"
+                            src="publicAssets/images/logo.webp"
                             alt="PSFS Logo"
                             className="login-logo cursor-pointer"
                             onClick={() => Navigate('/')}

@@ -10,7 +10,7 @@ export const SoftwareDeveloper = () => {
 
                         <div className="col-12 col-md-5 col-lg-4 px-4">
                             <div className="founder-card">
-                                <img src="Assets/images/dipeeka.webp" alt="Dipika" />
+                                <img src="publicAssets/images/dipeeka.webp" alt="Dipika" />
                                 <div className="founder-info">
                                     <h5 className="mb-1 fw-bold text-dark">Dipika</h5>
                                     <h6 className="text-dark">Data Scientist</h6>
@@ -20,7 +20,7 @@ export const SoftwareDeveloper = () => {
 
                         <div className="col-12 col-md-5 col-lg-4 px-4">
                             <div className="founder-card">
-                                <img src="Assets/images/tejaswin.webp" alt="Tejaswin" />
+                                <img src="publicAssets/images/tejaswin.webp" alt="Tejaswin" />
                                 <div className="founder-info">
                                     <h5 className="mb-1 fw-bold text-dark">Tejaswin</h5>
                                     <h6 className="text-dark">Data Scientist</h6>
@@ -30,7 +30,7 @@ export const SoftwareDeveloper = () => {
 
                          <div className="col-12 col-md-5 col-lg-4 px-4">
                             <div className="founder-card">
-                                <img src="Assets/images/pravalika.webp" alt="Namarata Sancheti" />
+                                <img src="publicAssets/images/pravalika.webp" alt="Namarata Sancheti" />
                                 <div className="founder-info">
                                     <h5 className="mb-1 fw-bold text-dark">Pravalika</h5>
                                     <h6 className="text-dark"> Data Scientist</h6>
